@@ -4,4 +4,4 @@ Doctors frequently study former cases to learn how to best treat their patients.
 
 This project was done in DataCamb platform.
 
-Project link: https://learn.datacamp.com/projects/552
+Project link: https://www.datacamp.com/projects/552
